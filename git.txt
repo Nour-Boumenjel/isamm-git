@@ -1,0 +1,2 @@
+git init :  initialisation du projet en créant un fichier git
+git add
